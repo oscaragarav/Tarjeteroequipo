@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Tarjeteroequipo.iml" filepath="$PROJECT_DIR$/Tarjeteroequipo.iml" />
+      <module fileurl="file://C:\Users\pc\Desktop\Tarjeteroequipo\Tarjeteroequipo.iml" filepath="C:\Users\pc\Desktop\Tarjeteroequipo\Tarjeteroequipo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\pc\Desktop\Tarjeteroequipo\app\app.iml" filepath="C:\Users\pc\Desktop\Tarjeteroequipo\app\app.iml" />
     </modules>
   </component>
 </project>
